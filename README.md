@@ -29,4 +29,4 @@ This is a real-time chat application built with JavaScript, HTML, CSS, and Node.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Swarnendu14/Real-Time-Chat.git
+   https://github.com/SK-ROHIT-HOSSAIN/My-Chat.git
